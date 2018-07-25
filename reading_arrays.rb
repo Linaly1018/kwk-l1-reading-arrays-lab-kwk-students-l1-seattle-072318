@@ -28,7 +28,9 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  puts STUDENT_NAMES[Adele, Beyoncé, Cardi B]
+  puts STUDENT_NAMES[Adele]
+  puts STUDENT_NAMES[Beyoncé]
+  puts STUDENT_NAMES[Cardi B]
 end
 
 first_student_by_index
